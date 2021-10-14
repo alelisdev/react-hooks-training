@@ -1,0 +1,24 @@
+{
+	"bookables": [],
+	"users": [],
+	"bookings": [],
+	"sessions": [
+		"Breackfast",
+		"Morning",
+		"Launch",
+		"Afternoon",
+		"Evening"
+	],
+	"days": [
+		"Sunday",
+		"Monday",
+		"Thuesday",
+		"Wednesday",
+		"Thursday",
+		"Friday",
+		"Saturday"
+
+	]
+
+
+}
